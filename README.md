@@ -1,7 +1,9 @@
 # hahow-collecter
 ## 檔案說明：
+![](https://i.imgur.com/jVoal89.png)
 
 ## 需要先設定登入資料
+![](https://i.imgur.com/AlYihyn.png)
 .env是變數檔案，設定登入憑證用的。
 
 ## 執行檔有兩個：
@@ -25,9 +27,12 @@ index.js
 
 ## 使用方法：
 
+整包下載回來解壓縮，裡面長這樣：
+![](https://i.imgur.com/KemURhl.png)
+
 需要的檔案只有.env以及exe這兩個，先編輯.env把登入憑證設定好，
 如果是執行「downloadbyID」的話需要把classID也填好，總共寫好三個變數
 如果是執行「downloadbySelect」的話則不用，只要兩個變數填好即可執行。
-
+![](https://i.imgur.com/FeJnYry.png)
 下載後把.env以及exe放在要下載的地方，推薦D:/裡面，
 然後打開cmd，切換路徑到該路徑底下，再輸入downloadbySelect.exe或HahowDownloader.exe執行即可。
