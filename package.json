@@ -1,0 +1,16 @@
+{
+  "name": "hahow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dnew.js",
+  "scripts": {
+    "build": "pkg index.js -t node16-win-x64 -o my-app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^4.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
