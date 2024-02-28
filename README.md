@@ -1,4 +1,6 @@
 # hahow-collecter
+此為學習筆記，用途僅供學習，切勿以身試法觸犯智慧財產權、販售、營利。
+
 ## 程式效果圖：
 ![](https://i.imgur.com/jVoal89.png)
 
